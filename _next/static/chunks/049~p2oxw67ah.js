@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,34367,e=>{e.q("/ultima-preview/_next/static/media/logo-nome.0675u~j~uetd1.svg")},2316,e=>{e.q("/ultima-preview/_next/static/media/logo-simbolo.0rffiy7sekh7k.svg")}]);

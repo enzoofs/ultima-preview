@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:I[22016,["/ultima-preview/_next/static/chunks/0436okytzgng_.js","/ultima-preview/_next/static/chunks/08uh6.imupez1.js","/ultima-preview/_next/static/chunks/0d3shmwh5_nmn.js","/ultima-preview/_next/static/chunks/14maioaonn7hq.js"],""]
+3:I[5500,["/ultima-preview/_next/static/chunks/0436okytzgng_.js","/ultima-preview/_next/static/chunks/08uh6.imupez1.js","/ultima-preview/_next/static/chunks/0d3shmwh5_nmn.js","/ultima-preview/_next/static/chunks/14maioaonn7hq.js"],"Image"]
+c:I[97367,["/ultima-preview/_next/static/chunks/0436okytzgng_.js","/ultima-preview/_next/static/chunks/08uh6.imupez1.js","/ultima-preview/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+4:T93d,{"@context":"https://schema.org","@graph":[{"@type":"BlogPosting","headline":"Agência de anúncios online para indústria em Belo Horizonte: como gerar leads qualificados","description":"Veja como uma agência de anúncios online para indústria em Belo Horizonte pode gerar leads B2B qualificados com estratégia e mensuração.","url":"https://site.ultimadigital.com.br/blog/agencia-de-anuncios-online-para-industria-em-belo-horizonte-como-gerar","mainEntityOfPage":"https://site.ultimadigital.com.br/blog/agencia-de-anuncios-online-para-industria-em-belo-horizonte-como-gerar","datePublished":"2026-10-28","dateModified":"2026-10-28","inLanguage":"pt-BR","author":{"@type":"Person","name":"Gabriel Pedrosa","jobTitle":"Fundador e CEO"},"publisher":{"@id":"https://site.ultimadigital.com.br/#empresa"}},{"@type":"ProfessionalService","@id":"https://site.ultimadigital.com.br/#empresa","name":"Última Digital","url":"https://site.ultimadigital.com.br/","logo":"https://site.ultimadigital.com.br/logo.svg","image":"https://site.ultimadigital.com.br/gabriel-pedrosa.jpg","description":"Agência de tráfego pago em Belo Horizonte. Planeja, executa e mede anúncios no Google e na Meta para negócios locais, e-commerces, indústrias e prestadores de serviço.","disambiguatingDescription":"A Última Digital (ultimadigital.com.br), agência de tráfego pago de Belo Horizonte, não tem relação com a Agência Última nem com a Última Performance Digital Ltda (agenciaultima.com.br).","telephone":"+55 31 98590-3962","email":"contato@ultimadigital.com.br","foundingDate":"2018","address":{"@type":"PostalAddress","addressLocality":"Belo Horizonte","addressRegion":"MG","addressCountry":"BR"},"areaServed":[{"@type":"City","name":"Belo Horizonte"},{"@type":"Country","name":"Brasil"}],"founder":{"@type":"Person","name":"Gabriel Pedrosa","jobTitle":"Fundador e CEO"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://site.ultimadigital.com.br/"},{"@type":"ListItem","position":2,"name":"Blog","item":"https://site.ultimadigital.com.br/blog"},{"@type":"ListItem","position":3,"name":"Agência de anúncios online para indústria em Belo Horizonte: como gerar leads qualificados","item":"https://site.ultimadigital.com.br/blog/agencia-de-anuncios-online-para-industria-em-belo-horizonte-como-gerar"}]}]}0:{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"relative z-50 border-b border-border bg-base px-5 py-4 sm:px-8 lg:px-12","children":["$","div",null,{"className":"mx-auto flex w-full max-w-6xl flex-wrap items-center justify-between gap-x-8 gap-y-3","children":[["$","$L2",null,{"href":"/","aria-label":"Última Digital, página inicial","children":["$","$L3",null,{"src":"/ultima-preview/logo.svg","alt":"Última Digital","width":150,"height":32,"className":"h-8 w-auto","unoptimized":true}]}],["$","nav",null,{"aria-label":"Principal","className":"order-3 w-full md:order-none md:w-auto","children":["$","ul",null,{"className":"flex flex-wrap gap-x-6 gap-y-2 text-sm text-text-secondary","children":[["$","li","/sobre",{"children":["$","$L2",null,{"href":"/sobre","className":"transition-colors hover:text-accent","children":"Sobre"}]}],["$","li","/trafego-pago-belo-horizonte",{"children":["$","$L2",null,{"href":"/trafego-pago-belo-horizonte","className":"transition-colors hover:text-accent","children":"Tráfego pago em Belo Horizonte"}]}],["$","li","/blog",{"children":["$","$L2",null,{"href":"/blog","className":"transition-colors hover:text-accent","children":"Blog"}]}]]}]}],["$","$L2",null,{"href":"/#contato","className":"group inline-flex items-center justify-center gap-3 rounded-full border border-transparent text-center transition-all duration-300 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-surface w-full bg-accent px-6 py-3 text-sm font-medium text-base hover:bg-transparent hover:text-accent hover:border-accent disabled:cursor-not-allowed disabled:opacity-70 disabled:hover:border-transparent disabled:hover:bg-accent disabled:hover:text-base sm:w-auto !w-auto","children":["$","span",null,{"children":"Quero crescer"}]}]]}]}],["$","main",null,{"className":"relative z-10 bg-surface","children":[["$","nav",null,{"aria-label":"Trilha","className":"px-5 pt-8 sm:px-8 lg:px-12","children":["$","ol",null,{"className":"mx-auto flex w-full max-w-6xl flex-wrap gap-2 text-xs text-text-muted","children":[["$","li","Início",{"className":"flex gap-2","children":[false,["$","$L2",null,{"href":"/","className":"hover:text-text-secondary","children":"Início"}]]}],["$","li","Blog",{"className":"flex gap-2","children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L2",null,{"href":"/blog","className":"hover:text-text-secondary","children":"Blog"}]]}],["$","li","Indústrias",{"className":"flex gap-2","children":[["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"children":"Indústrias"}]]}]]}]}],[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$4"}}],"$L5"],"$L6"]}],"$L7"],["$L8"],"$L9"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"BhjHynhMJOhG1Z1esxShJ"}
+a:T31b9,<p class="resposta-direta"><strong>Resposta rápida:</strong> Sim, uma agência de anúncios online para indústria em Belo Horizonte pode gerar leads qualificados quando trabalha com segmentação correta, oferta certa e acompanhamento comercial. Para indústria, o ponto não é só aparecer: é atrair empresas que realmente têm potencial de compra, dentro da região e do perfil técnico adequado. A Última Digital atua com gestão de tráfego pago e estratégia sob medida, o que ajuda a estruturar campanhas mais próximas da realidade industrial.</p>
+<h2>Quem faz tráfego pago para indústria em BH?</h2>
+<p>Quem faz tráfego pago para indústria em BH precisa entender que vender para indústria não é a mesma coisa que vender para varejo ou serviço local. Na prática, o anúncio não pode ser genérico: ele precisa falar com um decisor, resolver uma dor específica e filtrar quem realmente tem perfil de compra.</p>
+<p>A Última Digital trabalha com gestão de tráfego pago e estratégia de marketing digital sob medida. Isso é importante porque, em indústria, copiar campanha pronta costuma falhar. O que funciona é adaptar a mensagem ao nicho, à região e ao tipo de oportunidade que a empresa quer gerar.</p>
+<p>Para uma indústria em Belo Horizonte ou Minas Gerais, a agência precisa olhar para três coisas desde o início:</p>
+<ul>
+<li>o tipo de produto ou solução vendida;</li>
+<li>o perfil de empresa que compra;</li>
+<li>o caminho entre clique, lead e oportunidade comercial.</li>
+</ul>
+<p>Sem isso, a campanha pode até gerar contatos, mas dificilmente gera leads qualificados.</p>
+<h2>Marketing digital para indústria em Minas Gerais funciona?</h2>
+<p>Funciona, desde que a estratégia seja construída com foco em demanda real e não apenas em volume de acessos. Em indústria, o objetivo normalmente não é receber dezenas de contatos sem critério, e sim poucos leads com potencial de negócio.</p>
+<p>É aí que o marketing digital para indústria em Minas Gerais faz sentido: ele permite segmentar por região, por intenção de busca e por comportamento. Isso ajuda a atingir empresas que já têm algum interesse no que a indústria oferece.</p>
+<p>Na prática, isso é útil para indústrias que atendem:</p>
+<ul>
+<li>Belo Horizonte e região metropolitana;</li>
+<li>outras cidades de Minas;</li>
+<li>empresas de nichos específicos;</li>
+<li>compradores com ciclo de decisão mais longo.</li>
+</ul>
+<p>O ponto central é alinhar anúncio, página de destino e acompanhamento. Se a campanha promete uma coisa e a página entrega outra, o lead chega fraco. Se tudo está alinhado, a chance de gerar oportunidade aumenta.</p>
+<h2>Como gerar leads B2B com Google Ads em BH?</h2>
+<p>Google Ads costuma ser um dos caminhos mais diretos para indústria porque captura quem já está procurando por uma solução. Em vez de interromper alguém sem contexto, a campanha aparece no momento da busca.</p>
+<p>Para gerar leads B2B com Google Ads em BH, a lógica é esta:</p>
+<ol>
+<li><p><strong>Escolher palavras-chave com intenção comercial</strong>
+Não basta anunciar para termos amplos. O ideal é combinar palavras ligadas ao produto, ao problema e à região.</p>
+</li>
+<li><p><strong>Segmentar bem a área atendida</strong>
+A indústria pode atender só BH, toda a RMBH, Minas Gerais ou até outras praças. A segmentação precisa refletir isso.</p>
+</li>
+<li><p><strong>Criar anúncios com filtro</strong>
+O texto do anúncio deve ajudar a atrair o tipo certo de empresa e afastar curiosos.</p>
+</li>
+<li><p><strong>Levar para uma página coerente</strong>
+A landing page precisa explicar o que a indústria faz, para quem atende e qual problema resolve.</p>
+</li>
+<li><p><strong>Mensurar o lead certo, não só o formulário preenchido</strong>
+Um contato pode preencher um formulário e ainda assim não ser uma boa oportunidade. A mensuração precisa considerar qualidade.</p>
+</li>
+</ol>
+<p>A última etapa é especialmente importante para indústria. Muitas vezes o time comercial consegue identificar rapidamente se o contato tem potencial ou não. Quando isso é levado de volta para a campanha, o tráfego melhora com o tempo.</p>
+<h2>O que muda quando a empresa é indústria?</h2>
+<p>A principal diferença é o ciclo de venda. Em muitos casos, o comprador industrial não decide na hora. Ele compara fornecedores, avalia capacidade técnica, prazo, localização, atendimento e confiança.</p>
+<p>Isso muda a estrutura da campanha.</p>
+<p>Em vez de vender com urgência exagerada, a comunicação precisa:</p>
+<ul>
+<li>mostrar especialidade;</li>
+<li>deixar claro o tipo de atendimento;</li>
+<li>reforçar diferenciais concretos;</li>
+<li>facilitar o primeiro contato.</li>
+</ul>
+<p>Outro ponto é a segmentação por região. Muitas indústrias precisam priorizar áreas de atendimento porque deslocamento, logística e operação influenciam a decisão. Por isso, anúncios genéricos demais tendem a desperdiçar verba.</p>
+<p>A estratégia sob medida da Última Digital conversa justamente com esse cenário. O trabalho começa com análise de mercado para identificar oportunidades específicas do nicho, passa por planejamento estratégico e segue com execução e ajustes constantes.</p>
+<h2>Como saber se a agência entende sua indústria?</h2>
+<p>Antes de contratar uma agência de anúncios online para indústria em Belo Horizonte, vale observar se ela faz as perguntas certas. Uma agência que entende do tema não começa falando só de clique e impressões. Ela pergunta sobre vendas, margem, ticket, região e perfil do cliente.</p>
+<p>Alguns sinais de que a agência está olhando para o seu cenário com mais seriedade:</p>
+<ul>
+<li>quer entender o produto ou serviço com profundidade;</li>
+<li>pergunta quem é o decisor da compra;</li>
+<li>separa lead de oportunidade;</li>
+<li>considera o processo comercial da empresa;</li>
+<li>adapta a comunicação ao segmento;</li>
+<li>apresenta relatórios claros e mensuráveis.</li>
+</ul>
+<p>A Última Digital segue um processo em quatro etapas: análise de mercado, planejamento estratégico, execução avançada e relatórios mensuráveis. Isso ajuda a sair do improviso e trabalhar com base em dados.</p>
+<h2>Por que campanhas prontas costumam falhar na indústria?</h2>
+<p>Porque indústria quase nunca compra no mesmo ritmo ou pelo mesmo impulso de outros mercados. Uma campanha pronta costuma errar em pelo menos um destes pontos:</p>
+<ul>
+<li>usa linguagem genérica demais;</li>
+<li>fala com público amplo demais;</li>
+<li>não respeita a região atendida;</li>
+<li>não considera o ciclo de decisão;</li>
+<li>mede só volume, não qualidade.</li>
+</ul>
+<p>Além disso, campanhas copiadas normalmente não refletem as diferenças entre um negócio local, um e-commerce e uma indústria. O que funciona para um segmento pode não funcionar para outro.</p>
+<p>A proposta da Última Digital é justamente fugir do “nada copiado” e construir estratégia personalizada para cada cliente. Para a indústria, isso costuma ser decisivo.</p>
+<h2>Como a Última Digital trabalha campanhas para indústria?</h2>
+<p>Pelo processo informado no site, a Última Digital estrutura o trabalho assim:</p>
+<h3>1. Análise de mercado</h3>
+<p>Aqui a agência identifica oportunidades específicas do nicho industrial. Essa etapa serve para descobrir onde está a demanda e qual tipo de campanha faz mais sentido.</p>
+<h3>2. Planejamento estratégico</h3>
+<p>Depois, monta-se uma estratégia sob medida com foco em resultado. Em indústria, isso significa pensar não só na geração de clique, mas na qualidade do lead e no alinhamento com o time comercial.</p>
+<h3>3. Execução avançada</h3>
+<p>As campanhas são lançadas, monitoradas e ajustadas constantemente. Esse acompanhamento é essencial porque performance em tráfego pago não é estática.</p>
+<h3>4. Relatórios mensuráveis</h3>
+<p>A empresa recebe insights e métricas para acompanhar o progresso. Para indústria, isso ajuda a entender quais campanhas geram oportunidade real.</p>
+<h2>O que avaliar antes de investir em tráfego para indústria?</h2>
+<p>Se você tem uma indústria em BH ou Minas, o investimento em mídia precisa ser analisado com critério. Não basta perguntar quanto custa anunciar. A pergunta certa é: quanto custa gerar uma oportunidade que realmente pode virar venda?</p>
+<p>Antes de começar, avalie:</p>
+<ul>
+<li>se sua operação atende a cidade, região ou estado;</li>
+<li>quais produtos ou soluções têm maior margem;</li>
+<li>qual tipo de lead vale mais para o comercial;</li>
+<li>se existe estrutura para responder rápido aos contatos;</li>
+<li>se sua página ou site explica bem o que você faz.</li>
+</ul>
+<p>Sem esse básico, o tráfego pode até trazer movimento, mas não necessariamente negócio.</p>
+<h2>A Última Digital atende quais tipos de empresas?</h2>
+<p>Segundo o perfil, a Última Digital atende negócios locais, e-commerces, indústrias, prestadores de serviço, produtores de eventos, bares e restaurantes.</p>
+<p>Para o caso industrial, o valor está em adaptar a estratégia ao contexto B2B, com atenção especial a:</p>
+<ul>
+<li>região atendida;</li>
+<li>nicho industrial;</li>
+<li>ciclo de decisão;</li>
+<li>qualidade do lead;</li>
+<li>acompanhamento dos resultados.</li>
+</ul>
+<p>O site também destaca atendimento personalizado e exclusivo, além de apoio para quem nunca anunciou, com orientação passo a passo. Isso pode ser útil para indústrias que ainda não têm maturidade de mídia paga e precisam começar com mais segurança.</p>
+<h2>Quando faz sentido procurar uma agência em Belo Horizonte?</h2>
+<p>Faz sentido quando a empresa quer sair da dependência de indicação, participar mais ativamente da geração de demanda ou estruturar melhor a prospecção. Para indústria, isso é especialmente relevante quando a equipe comercial precisa de um fluxo mais previsível de oportunidades.</p>
+<p>Também vale procurar uma agência quando:</p>
+<ul>
+<li>o site até recebe visitas, mas gera poucos contatos;</li>
+<li>os contatos que chegam não têm perfil;</li>
+<li>a empresa quer expandir atuação em BH, RMBH ou MG;</li>
+<li>há necessidade de comunicar melhor diferenciais técnicos;</li>
+<li>o marketing atual não mostra de onde vêm os resultados.</li>
+</ul>
+<p>Nesse cenário, uma agência de anúncios online para indústria em Belo Horizonte precisa atuar como parceira de aquisição, não apenas como executora de campanha.</p>
+<h2>Vale a pena começar por uma consultoria inicial?</h2>
+<p>Sim, porque isso reduz risco e evita avançar com uma estratégia que não faz sentido para a realidade da empresa. A Última Digital informa que, se após a consultoria inicial o cliente não enxergar valor, eles não avançam.</p>
+<p>Para o empresário industrial, isso é útil por um motivo simples: antes de investir, é melhor entender se a proposta conversa com o mercado, com o orçamento e com o objetivo comercial.</p>
+<h2>Conclusão</h2>
+<p>Se você procura uma agência de anúncios online para indústria em Belo Horizonte, o foco deve estar em gerar leads qualificados, não só tráfego. Em indústria, a campanha precisa respeitar ciclo de venda, região atendida, perfil técnico do cliente e capacidade comercial de transformar contato em oportunidade.</p>
+<p>A Última Digital trabalha com gestão de tráfego pago e estratégia sob medida, com processo estruturado e atendimento personalizado. Se fizer sentido para sua indústria, vale conversar e avaliar o próximo passo.</p>
+<p>Fale com a Última Digital pelo WhatsApp e veja como estruturar sua geração de leads com mais precisão.</p>
+
+<h2>Perguntas frequentes</h2>
+<h3>Quem faz tráfego pago para indústria em BH?</h3>
+<p>Agências de tráfego pago com foco em estratégia sob medida, como a Última Digital, podem atender esse tipo de demanda.</p>
+<h3>Marketing digital para indústria em Minas Gerais funciona?</h3>
+<p>Funciona quando a campanha é segmentada por região, nicho e intenção de compra, com mensuração de qualidade dos leads.</p>
+<h3>Como gerar leads B2B com Google Ads em BH?</h3>
+<p>Com palavras-chave certas, segmentação regional, anúncios qualificados e uma página de destino coerente com a oferta.</p>
+<h3>Agência de marketing para indústria em Belo Horizonte vale a pena?</h3>
+<p>Vale quando a empresa precisa de previsibilidade comercial e quer atrair contatos com real potencial de negócio.</p>
+<h3>A Última Digital atende indústrias?</h3>
+<p>Sim. O site informa que a empresa atende indústrias com gestão de tráfego pago e estratégia sob medida.</p>
+<p class="autor"><strong>Por Gabriel Pedrosa</strong>, Fundador e CEO da Última Digital.</p>5:["$","article",null,{"className":"px-5 py-10 sm:px-8 lg:px-12","children":["$","div",null,{"className":"mx-auto grid w-full max-w-6xl gap-12 lg:grid-cols-[minmax(0,1fr)_300px]","children":[["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl tracking-tight text-text-primary sm:text-5xl","children":"Agência de anúncios online para indústria em Belo Horizonte: como gerar leads qualificados"}],["$","p",null,{"className":"mt-5 flex flex-wrap gap-x-4 font-mono text-xs text-text-muted","children":[["$","span",null,{"children":"Gabriel Pedrosa"}],["$","time",null,{"dateTime":"2026-10-28","children":"28 de outubro de 2026"}],["$","span",null,{"children":[8," min de leitura"]}]]}],["$","div",null,{"className":"artigo mt-8","dangerouslySetInnerHTML":{"__html":"$a"}}]]}],"$Lb"]}]}]
+6:["$","section",null,{"className":"border-t border-border px-5 py-16 sm:px-8 lg:px-12","children":["$","div",null,{"className":"mx-auto w-full max-w-6xl","children":[["$","h2",null,{"className":"text-3xl tracking-tight text-text-primary sm:text-4xl","children":"Sem risco, apenas resultados"}],["$","p",null,{"className":"mt-4 max-w-2xl leading-relaxed text-text-secondary","children":"Se após nossa consultoria inicial você não enxergar valor em nossa estratégia, não avançaremos. Estamos 100% comprometidos com sua satisfação e com o impacto positivo no seu negócio."}],["$","$L2",null,{"href":"/#contato","className":"group inline-flex items-center justify-center gap-3 rounded-full border border-transparent text-center transition-all duration-300 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-surface w-full bg-accent px-6 py-3 text-sm font-medium text-base hover:bg-transparent hover:text-accent hover:border-accent disabled:cursor-not-allowed disabled:opacity-70 disabled:hover:border-transparent disabled:hover:bg-accent disabled:hover:text-base sm:w-auto mt-8 w-auto","children":["$","span",null,{"children":"Preencher o formulário"}]}]]}]}]
+7:["$","footer",null,{"className":"relative z-[90] border-t border-border bg-base px-5 py-12 sm:px-8 lg:px-12","children":["$","div",null,{"className":"mx-auto grid w-full max-w-6xl gap-10 md:grid-cols-3","children":[["$","p",null,{"className":"max-w-sm text-sm leading-relaxed text-text-secondary","children":"Agência de tráfego pago em Belo Horizonte. Planeja, executa e mede anúncios no Google e na Meta para negócios locais, e-commerces, indústrias e prestadores de serviço."}],["$","div",null,{"children":[["$","h2",null,{"className":"font-mono text-xs tracking-[0.24em] text-text-muted","children":"EMPRESA"}],["$","ul",null,{"className":"mt-4 space-y-2 text-sm text-text-secondary","children":[["$","li","/sobre",{"children":["$","$L2",null,{"href":"/sobre","className":"transition-colors hover:text-accent","children":"Sobre"}]}],["$","li","/trafego-pago-belo-horizonte",{"children":["$","$L2",null,{"href":"/trafego-pago-belo-horizonte","className":"transition-colors hover:text-accent","children":"Tráfego pago em Belo Horizonte"}]}],["$","li","/blog",{"children":["$","$L2",null,{"href":"/blog","className":"transition-colors hover:text-accent","children":"Blog"}]}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"font-mono text-xs tracking-[0.24em] text-text-muted","children":"CONTATO"}],["$","ul",null,{"className":"mt-4 space-y-2 text-sm text-text-secondary","children":[["$","li",null,{"children":["WhatsApp: ","+55 31 98590-3962"]}],["$","li",null,{"children":"contato@ultimadigital.com.br"}],["$","li",null,{"children":"Belo Horizonte, MG · atende todo o Brasil"}]]}]]}]]}]}]
+8:["$","script","script-0",{"src":"/ultima-preview/_next/static/chunks/14maioaonn7hq.js","async":true}]
+9:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+b:["$","aside",null,{"className":"space-y-5 lg:sticky lg:top-6 lg:self-start","children":[["$","div",null,{"className":"rounded-2xl border border-border bg-surface-raised p-6","children":[["$","h2",null,{"className":"text-text-primary","children":"Quer ajuda com isso?"}],["$","p",null,{"className":"mt-3 text-sm leading-relaxed text-text-secondary","children":"Conte sobre o seu negócio. Se fizer sentido, marcamos a consultoria inicial."}],["$","$L2",null,{"href":"/#contato","className":"group inline-flex items-center justify-center gap-3 rounded-full border border-transparent text-center transition-all duration-300 ease-out focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-surface w-full bg-accent px-6 py-3 text-sm font-medium text-base hover:bg-transparent hover:text-accent hover:border-accent disabled:cursor-not-allowed disabled:opacity-70 disabled:hover:border-transparent disabled:hover:bg-accent disabled:hover:text-base sm:w-auto mt-5","children":["$","span",null,{"children":"Preencher o formulário"}]}]]}],["$","div",null,{"className":"rounded-2xl border border-border bg-surface-raised p-6","children":[["$","h2",null,{"className":"text-text-primary","children":"Leia também"}],["$","ul",null,{"className":"mt-3 space-y-3 text-sm text-text-secondary","children":[["$","li","agencia-de-trafego-pago-para-bares-e-restaurantes-em-belo-horizonte",{"children":["$","$L2",null,{"href":"/blog/agencia-de-trafego-pago-para-bares-e-restaurantes-em-belo-horizonte","className":"hover:text-accent","children":"Agência de tráfego pago para bares e restaurantes em Belo Horizonte: como gerar mais reservas e pedidos"}]}],["$","li","gestor-de-trafego-para-eventos-em-bh-como-vender-mais-ingressos-com",{"children":["$","$L2",null,{"href":"/blog/gestor-de-trafego-para-eventos-em-bh-como-vender-mais-ingressos-com","className":"hover:text-accent","children":"Gestor de tráfego para eventos em BH: como vender mais ingressos com anúncios online"}]}]]}]]}]]}]
+e:null
